@@ -1,6 +1,6 @@
 #!/bin/env bash
 
-bash "$(dirname "$0")/godCD.sh"
+bash "$(dirname "$0")/goodCD.sh"
 #echo "debug print $?"
 if [ $? -eq 0 ] 
 then

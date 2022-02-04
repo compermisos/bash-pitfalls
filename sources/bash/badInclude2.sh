@@ -2,4 +2,4 @@
 echo "Hola!"
 echo "vamos a Ejecutar otro archivo"
 pwd
-bash ./godCD.sh
+bash ./goodCD.sh

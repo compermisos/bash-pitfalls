@@ -1,6 +1,6 @@
 #!/bin/env bash
 
-if bash "$(dirname "$0")/godCD.sh"  
+if bash "$(dirname "$0")/goodCD.sh"  
 then
   echo "todo funciono correctamente"
 else
