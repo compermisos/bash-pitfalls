@@ -1,5 +1,6 @@
 #!/bin/env bash
-if [ "$1" -eq 1 ]
+
+if [ "$1" -eq "si" ]
 then
   pwd
   :
