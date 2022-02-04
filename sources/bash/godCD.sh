@@ -6,6 +6,5 @@ touch "$variableBonita/ficheroA"
 touch "$variableBonita/ficheroB"
 touch "$variableBonita/ficheroC"
 touch "$variableBonita/ficheroD"
-# shellcheck disable=SC2154
-cd "$variablebonita"|| exit
+cd "$variableBonita"2|| exit
 rm "*" -rf 

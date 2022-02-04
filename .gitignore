@@ -2,3 +2,5 @@
 .jupyter-server-log.txt
 .local/
 test/
+.ipynb_checkpoints/
+.ipython
