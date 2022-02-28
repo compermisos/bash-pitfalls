@@ -15,3 +15,10 @@ jupyter-repo2docker -E bash-pitfall/
 Para construir 
 
 jupyter-repo2docker github.com:compermisos/bash-pitfalls.git
+
+
+la imagen construida esta en:
+https://hub.docker.com/r/compermisos/bash-pitfalls/tags
+
+y el repo esta en:
+https://github.com/compermisos/bash-pitfalls
